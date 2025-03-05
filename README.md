@@ -1,5 +1,5 @@
 # 🗺️ LLM-Powered Trip Planning  
-
+![Berkeley Event Recs](berkeley_event_recs.webp)
 ## 📝 Description  
 This project explores the use of **Large Language Models (LLMs)** for **automated trip planning**, leveraging advanced AI to generate personalized travel itineraries. The model provides dynamic, real-time recommendations based on user preferences, enhancing traditional trip planning methods.  
 

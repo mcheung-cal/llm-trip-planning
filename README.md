@@ -25,6 +25,13 @@ This project explores the use of **Large Language Models (LLMs)** for **automate
 ## 🚀 Future Directions  
 - **Improve recommendation accuracy** by integrating real-time data sources  
 - **Enhance user interaction** with additional customization options  
-- **Expand supported destinations** for a more comprehensive trip planning experience  
+- **Expand supported destinations** for a more comprehensive trip planning experience
+
+## 👥 Contributors  
+- **Michelle Cheung** 
+- **Lillian Jiang** 
+- **Vivrd Prasanna** 
+- **Sara Tetsu**
+- **Michael Florip**
 
 This project demonstrates the potential of **LLMs in travel applications**, making itinerary planning more efficient and personalized. Let me know if you’d like any refinements! ✈️🚀  

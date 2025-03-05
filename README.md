@@ -33,5 +33,3 @@ This project explores the use of **Large Language Models (LLMs)** for **automate
 - **Vivrd Prasanna** 
 - **Sara Tetsu**
 - **Michael Florip**
-
-This project demonstrates the potential of **LLMs in travel applications**, making itinerary planning more efficient and personalized. Let me know if you’d like any refinements! ✈️🚀  
